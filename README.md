@@ -19,7 +19,8 @@
 Abajo, se adjuntan los pasos a seguir para ejecutar el código exitosamente desde una terminal de preferencia:
 1. Instale las bibliotecas necesarias si es que no se cuentan con ellas ya.
    ```sh
-  pip install pandas scikit-learn matplotlib openmc   ```
+  pip install pandas scikit-learn matplotlib openmc   
+  ```
 2. Copee el código en un archivo .py (ej: reactores_nucleares.py).
 3. Ejecute desde su terminal:
 4. 
