@@ -55,8 +55,8 @@ Abajo, se adjuntan los pasos a seguir para ejecutar el código exitosamente desd
 -SMRs (Small Modular Reactors): Usar IA (LSTM) para predecir fallos en tiempo real y ajustar flujos de refrigerante.  
 -Combustible avanzado: Aumentar el enriquecimiento de U-235 al 5% (como en Obninsk) mejora la producción sin comprometer seguridad.  
 El estudio evidenció que, a pesar de que los reactores atómicos enfrentan restricciones por ineficiencias en la termodinámica y pérdidas en la mecánica, tecnologías como la simulación por computadora y la inteligencia artificial pueden mejorar su concepción.  Un caso particular sería ajustar el paso del refrigerante en los RBMKs, lo cual podría prevenir inestabilidad, mientras que vigilar el nivel de agua en los BWRs ayudaría a evitar siniestros.  
-## Equipo
--Armenta Caballero Christopher
--Reyes Casillas Jovanna Amiraxel
--Rivera Urias Denzel Omar
--Sortillón Sortillón Ana Paulina
+## Equipo  
+- Armenta Caballero Christopher  
+- Reyes Casillas Jovanna Amiraxel  
+- Rivera Urias Denzel Omar  
+- Sortillón Sortillón Ana Paulina  
