@@ -17,10 +17,20 @@
 
 ## Pasos para ejecutar el código
 Abajo, se adjuntan los pasos a seguir para ejecutar el código exitosamente desde una terminal de preferencia:
-1. ```sh pip install pandas scikit-learn matplotlib openmc    ```
-2. ```sh
-  python reactores_nucleares.py
+
+1.
+   ```sh
+   git clone https://github.com/jovannareyesc/proyectomecanica
    ```
+2. 
+   ```sh
+   pip install pandas scikit-learn matplotlib openmc
+   ```
+3. 
+   ```sh
+   python main.py
+   ```
+
 ## Conclusiones
 
 El estudio evidenció que, a pesar de que los reactores atómicos enfrentan restricciones por ineficiencias en la termodinámica y pérdidas en la mecánica, tecnologías como la simulación por computadora y la inteligencia artificial pueden mejorar su concepción.  Un caso particular sería ajustar el paso del refrigerante en los RBMKs, lo cual podría prevenir inestabilidad, mientras que vigilar el nivel de agua en los BWRs ayudaría a evitar siniestros. 
