@@ -33,10 +33,11 @@ Abajo, se adjuntan los pasos a seguir para ejecutar el código exitosamente desd
 
 ## Conclusiones
 **1. Modelado de Eficiencia con Regresión**
-
+<br />
  *RMBK (Chernóbil)*
 - La regresión polinómica mostró una correlación fuerte (*R² = 0.87*) entre el flujo de refrigerante irregular y la caída de eficiencia (28%).
 -Dato clave: Un flujo inferior a 7,000 kg/s en este reactor aumenta el riesgo de inestabilidad térmica (coeficiente de vacío positivo).
+<br />
 *BWR (Fukushima)*
   -El modelo Random Forest reveló que la producción eléctrica (784 MWe) depende críticamente del nivel de agua en el núcleo (R² = 0.92).
 -Hallazgo: Si el nivel de agua baja al 45%, la producción cae un 60% por falta de refrigeración (ejemplo real del accidente de 2011).
